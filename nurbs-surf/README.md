@@ -2,33 +2,20 @@
 
 MFEM [Pull Request 4841](https://github.com/mfem/mfem/pull/4841)
 
-## Example 1 (Sine wave) -- Upsampling
+## Example 1 (Sine wave) Upsampling
 
-| Input | NURBS | Output
-:------:|:-----:|:------:
-[![](nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.mesh) | [![](nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.mesh) | [![](nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.mesh)
+| Input Surface | NURBS Surface | Output Surface |
+:--------------:|:-------------:|:---------------:
+[![](ex1-nx10-ny10-fx40-fy40/Input-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.mesh) | [![](ex1-nx10-ny10-fx40-fy40/NURBS-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.mesh) | [![](ex1-nx10-ny10-fx40-fy40/Output-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.mesh)
 
-- [Input Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.mesh)
-- [NURBS Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.mesh)
-- [Output Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.mesh)
+## Example 2 (Sphere) Upsampling
 
-## Example 2 (Sphere) -- Upsampling
+[![](ex2-nx10-ny10-fx40-fy40/Input-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex2-nx10-ny10-fx40-fy40/Input-Surface.mesh) | [![](ex2-nx10-ny10-fx40-fy40/NURBS-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex2-nx10-ny10-fx40-fy40/NURBS-Surface.mesh) | [![](ex2-nx10-ny10-fx40-fy40/Output-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex2-nx10-ny10-fx40-fy40/Output-Surface.mesh)
 
-- [Input Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.mesh)
-- [NURBS Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.mesh)
-- [Output Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.mesh)
+## Example 2 (Sphere) Downsampling
 
-## Example 2 (Sphere) -- Downsampling
+[![](ex2-nx20-ny20-fx10-fy10/Input-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex2-nx20-ny20-fx10-fy10/Input-Surface.mesh) | [![](ex2-nx20-ny20-fx10-fy10/NURBS-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex2-nx20-ny20-fx10-fy10/NURBS-Surface.mesh) | [![](ex2-nx20-ny20-fx10-fy10/Output-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex2-nx20-ny20-fx10-fy10/Output-Surface.mesh)
 
-- [Input Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.mesh)
-- [NURBS Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.mesh)
-- [Output Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.mesh)
+## Example 5 (Breather) Upsampling
 
-## Example 5 (Breather) -- Upsampling
-
-- [Input Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Input-Surface.mesh)
-- [NURBS Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/NURBS-Surface.mesh)
-- [Output Surface](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex1-nx10-ny10-fx40-fy40/Output-Surface.mesh)
-
-
-
+[![](ex5-nx100-ny100-fx400-fy400/Input-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex5-nx100-ny100-fx400-fy400/Input-Surface.mesh) | [![](ex5-nx100-ny100-fx400-fy400/NURBS-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex5-nx100-ny100-fx400-fy400/NURBS-Surface.mesh) | [![](ex5-nx100-ny100-fx400-fy400/Output-Surface.png)](https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/nurbs-surf/ex5-nx100-ny100-fx400-fy400/Output-Surface.mesh)
