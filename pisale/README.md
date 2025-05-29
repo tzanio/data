@@ -45,6 +45,24 @@ mpirun --map-by :OVERSUBSCRIBE -np 32 ./ex1p
 
 <a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1p.saved"><img src="ex1p.png" width=50% height=50%></a>
 
+### Example 2 (Elasticity)
+
+
+```
+./ex2 -m ../data/beam-hex.mesh
+```
+
+<a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex2.saved"><img src="ex2.png" width=50% height=50%></a>
+
+### Example 3 (Electromagnetic Diffusion)
+
+
+```
+./ex3 -m ../data/fichera.mesh
+```
+
+<a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex3.saved"><img src="ex3.png" width=50% height=50%></a>
+
 ### Example 9 (Advection)
 
 ```
