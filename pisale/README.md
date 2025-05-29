@@ -27,3 +27,11 @@ mpirun --map-by :OVERSUBSCRIBE -np 32 ./ex1p
 ```
 
 <a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1p.saved"><img src="ex1p.png" width=50% height=50%></a>
+
+## Example 9
+
+```
+ex9 -m ../data/periodic-square.mesh -p 3 -r 4 -dt 0.0025 -tf 9 -vs 20
+```
+
+<a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex9.saved"><img src="ex9.png" width=50% height=50%></a>
