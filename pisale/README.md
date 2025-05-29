@@ -21,3 +21,9 @@ Saved data from several MFEM examples runs.
 ```
 
 <a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1-surf.saved"><img src="ex1-surf.png" width=50% height=50%></a>
+
+```
+mpirun --map-by :OVERSUBSCRIBE -np 32 ./ex1p
+```
+
+<a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1p.saved"><img src="ex1p.png" width=50% height=50%></a>
