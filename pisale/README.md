@@ -1,23 +1,22 @@
 # PISALE Summer School 2025
 
-## MFEM examples
+## MFEM Examples Sample Runs
 
 <table align="center">
+<thead style="border: none !important;">
 <tr>
     <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1.saved"><img src="ex1.png" ></a> </td>
     <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1-3d.saved"><img src="ex1-3d.png"></a></td>
     <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1-surf.saved"><img src="ex1-surf.png"></a></td>
-</tr>
-<tr>
     <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex1p.saved"><img src="ex1p.png"></a></td>
+    <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex2.saved"><img src="ex2.png"></a></td>
+    <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex3.saved"><img src="ex3.png"></a></td>
     <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex9.saved"><img src="ex9.png"></a></td>
+    <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex15.saved"><img src="ex15.png"></a></td>
     <td align="center"><a href="https://glvis.org/live/?stream=https://raw.githubusercontent.com/tzanio/data/main/pisale/ex37p.saved"><img src="ex37p.png"></a></td>
 </tr>
 </table>
-
-
-## Additional details
-
+    
 ### Example 1 (Diffusion)
 
 
